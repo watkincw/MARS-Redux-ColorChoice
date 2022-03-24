@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MARS-Redux-ColorChoice/static/css/main.073c9b0a.css",
+    "main.js": "/MARS-Redux-ColorChoice/static/js/main.988ce506.js",
+    "static/js/787.17fab355.chunk.js": "/MARS-Redux-ColorChoice/static/js/787.17fab355.chunk.js",
+    "index.html": "/MARS-Redux-ColorChoice/index.html",
+    "main.073c9b0a.css.map": "/MARS-Redux-ColorChoice/static/css/main.073c9b0a.css.map",
+    "main.988ce506.js.map": "/MARS-Redux-ColorChoice/static/js/main.988ce506.js.map",
+    "787.17fab355.chunk.js.map": "/MARS-Redux-ColorChoice/static/js/787.17fab355.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.988ce506.js"
+  ]
+}
